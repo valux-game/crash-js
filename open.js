@@ -89,5 +89,5 @@ window.onkeydown = function() {
 }
 
 window.onbeforeunload = function() {
-    return "Silly";
+    return "Valux Was Here!";
 };
